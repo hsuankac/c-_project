@@ -1,2 +1,2 @@
-# c-_project
-c++ project 
+# c_plus_plus project
+c_plus_plus project 
